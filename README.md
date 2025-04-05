@@ -141,8 +141,3 @@ GROUP BY event;
 
 - **Sawan** – AWS Cloud Developer
 
----
-
-## 📄 License
-
-MIT License
